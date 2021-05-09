@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adithyaprahasith
 - 👀 I’m interested in Machine learning and web development
-- 🌱 I’m a CS guy
+- 🌱 Always curious to learn new stuff!!
 
 
 <!---

@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Adithyaprahasith
-- 👀 I’m interested in Machine learning and web development,UX Designing
-- 🌱 Always curious to learn new stuff!!
+- 👋 Hi, I’m @Adithyaprahasith, a beginner data professional.
+- 👀 Passionate about AI<ML,DL>
 
 
 <!---

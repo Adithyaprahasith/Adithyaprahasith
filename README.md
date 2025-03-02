@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adithyaprahasith, a beginner data professional.
+- 👋 Hi, I’m @Adithyaprahasith, a data professional.
 - 👀 Passionate about AI<ML,DL>
 
 

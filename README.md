@@ -24,7 +24,7 @@ I'm a Data Science Professional, passionate about turning raw data into actionab
 
 ## 💬 Let’s Connect
 - 📧 [Email me](mailto:adithyaprahasith@gmail.com)
-- 🌐 [Portfolio](https://adithyaprahasith.notion.site/)
+- 🌐 [Portfolio](https://www.adithyamalladi.tech/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/adithya-prahasith)
 - 💻 [GitHub](https://github.com/adithyaprahasith)
 
